@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abhiraj Kumar  
 
 - 🎯 Aspiring **Data Analyst** | Currently learning Data Analytics at Ducat  
-- 👀 Interested in **Data Science, Business Intelligence, and Web Technologies**  
 - 🛠️ Skills: Python | SQL | Excel | Power BI | Tableau | Data Visualization  
 - 📊 Passionate about turning raw data into actionable insights  
 - 📫 Reach me at: abhirajkumar853@gmail.com
