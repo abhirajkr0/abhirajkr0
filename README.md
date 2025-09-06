@@ -3,7 +3,8 @@
 - 🎯 Aspiring **Data Analyst** | Currently learning Data Analytics at Ducat  
 - 🛠️ Skills: Python | SQL | Excel | Power BI | Tableau | Data Visualization  
 - 📊 Passionate about turning raw data into actionable insights  
-- 📫 Reach me at: abhirajkumar853@gmail.com
+- 📫 Reach me at: -                 - 📧 Email:      abhirajkumar853@gmail.com 
+- 🌐 [GitHub Profile](https://github.com/abhirajkr0)  
 - 🌱 Currently working on: Real-world datasets & analytics projects  
 - 😃 Ask me about: Data Analytics, SQL queries, Excel tricks, and visualization tools  
 
